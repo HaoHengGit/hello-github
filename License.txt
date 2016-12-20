@@ -1,0 +1,3 @@
+How to use git?!
+
+ssh-keygen -t rsa -C "haoheng@outlook.com"
