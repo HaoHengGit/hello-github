@@ -1,3 +1,5 @@
 How to use git?!
 
 ssh-keygen -t rsa -C "haoheng@outlook.com"
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1OSMs8qYfbBN7LkrWu/YdWSDbYexd//Tr2IZpXN2p2Knef3hY3RzZ15Co1Iv3oCRX6RPOwVeIsOhKfIJw8UJwo+ZgPZ6QQav3FjWBEnQ7MduwFG96CP3ky8OmLpHUsr8lipnowp1EKD8WxbHXNJCXXJh2VvLL2bJ4wdUAvGYJeLCZ2YMWCpgax7GG4+g+rAG631EuDfYepFjBDAlrd83n1M0wq3oof2ATjoPSBPc6Nt8OijmxrpSvF2DrttcKW+nnkgo9lo0aIywo2Wtvd4hIk4P2gI0tKjptr4hiP7ngtDE7qs7QzcrfIrYWgWyciHEu8tCUr32Xvv/38GeIGF8f haoheng@outlook.com
